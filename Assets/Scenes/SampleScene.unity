@@ -407,7 +407,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   m_IgnoreLayout: 0
   m_MinWidth: -1
-  m_MinHeight: 205
+  m_MinHeight: 390
   m_PreferredWidth: -1
   m_PreferredHeight: -1
   m_FlexibleWidth: -1
@@ -696,7 +696,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: 'Unity Developer, Play & Go Experience, Valencia, Spain.
+  m_text: 'Unity AR & VR Developer, Play & Go Experience, Valencia, Spain.
 
 '
   m_isRightToLeft: 0
@@ -726,10 +726,10 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontSize: 21
+  m_fontSize: 21.3
   m_fontSizeBase: 21
   m_fontWeight: 400
-  m_enableAutoSizing: 0
+  m_enableAutoSizing: 1
   m_fontSizeMin: 18
   m_fontSizeMax: 72
   m_fontStyle: 1
@@ -906,7 +906,7 @@ RectTransform:
   m_AnchorMin: {x: 0, y: 1}
   m_AnchorMax: {x: 1, y: 1}
   m_AnchoredPosition: {x: 0, y: -43}
-  m_SizeDelta: {x: 0, y: 20}
+  m_SizeDelta: {x: 0, y: 40}
   m_Pivot: {x: 0.5, y: 1}
 --- !u!114 &80963127
 MonoBehaviour:
@@ -956,8 +956,8 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontSize: 12.55
-  m_fontSizeBase: 12.55
+  m_fontSize: 15
+  m_fontSizeBase: 15
   m_fontWeight: 400
   m_enableAutoSizing: 0
   m_fontSizeMin: 18
@@ -1062,7 +1062,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   m_IgnoreLayout: 0
   m_MinWidth: -1
-  m_MinHeight: 235
+  m_MinHeight: 280
   m_PreferredWidth: -1
   m_PreferredHeight: -1
   m_FlexibleWidth: -1
@@ -1778,7 +1778,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!224 &175787191
 RectTransform:
   m_ObjectHideFlags: 0
@@ -1794,10 +1794,10 @@ RectTransform:
   m_Father: {fileID: 1711772092}
   m_RootOrder: 13
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-  m_AnchorMin: {x: 0, y: 0}
-  m_AnchorMax: {x: 0, y: 0}
-  m_AnchoredPosition: {x: 0, y: 0}
-  m_SizeDelta: {x: 0, y: 0}
+  m_AnchorMin: {x: 0, y: 1}
+  m_AnchorMax: {x: 0, y: 1}
+  m_AnchoredPosition: {x: 375, y: -1284}
+  m_SizeDelta: {x: 670, y: 278}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &175787192
 MonoBehaviour:
@@ -1986,7 +1986,7 @@ RectTransform:
   m_AnchorMin: {x: 0, y: 1}
   m_AnchorMax: {x: 1, y: 1}
   m_AnchoredPosition: {x: 0, y: -43.00001}
-  m_SizeDelta: {x: 0, y: 20}
+  m_SizeDelta: {x: 0, y: 40}
   m_Pivot: {x: 0.5, y: 1}
 --- !u!114 &193929496
 MonoBehaviour:
@@ -2036,8 +2036,8 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontSize: 13
-  m_fontSizeBase: 13
+  m_fontSize: 15
+  m_fontSizeBase: 15
   m_fontWeight: 400
   m_enableAutoSizing: 0
   m_fontSizeMin: 18
@@ -3128,8 +3128,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: 5, y: -27.560974}
-  m_SizeDelta: {x: -10, y: -70.87842}
+  m_AnchoredPosition: {x: 5, y: -37.560974}
+  m_SizeDelta: {x: -10, y: -90.87842}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &422882438
 MonoBehaviour:
@@ -3184,8 +3184,8 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontSize: 17
-  m_fontSizeBase: 17
+  m_fontSize: 18
+  m_fontSizeBase: 18
   m_fontWeight: 400
   m_enableAutoSizing: 0
   m_fontSizeMin: 18
@@ -3886,8 +3886,8 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontSize: 21
-  m_fontSizeBase: 21
+  m_fontSize: 22
+  m_fontSizeBase: 22
   m_fontWeight: 400
   m_enableAutoSizing: 0
   m_fontSizeMin: 18
@@ -4650,7 +4650,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   m_IgnoreLayout: 0
   m_MinWidth: -1
-  m_MinHeight: 170
+  m_MinHeight: 215
   m_PreferredWidth: -1
   m_PreferredHeight: -1
   m_FlexibleWidth: -1
@@ -5456,7 +5456,7 @@ RectTransform:
   m_AnchorMin: {x: 0, y: 1}
   m_AnchorMax: {x: 1, y: 1}
   m_AnchoredPosition: {x: 0, y: -43}
-  m_SizeDelta: {x: 0, y: 20}
+  m_SizeDelta: {x: 0, y: 40}
   m_Pivot: {x: 0.5, y: 1}
 --- !u!114 &675766152
 MonoBehaviour:
@@ -5506,8 +5506,8 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontSize: 13
-  m_fontSizeBase: 13
+  m_fontSize: 15
+  m_fontSizeBase: 15
   m_fontWeight: 400
   m_enableAutoSizing: 0
   m_fontSizeMin: 18
@@ -5686,8 +5686,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: 5, y: -31.500244}
-  m_SizeDelta: {x: -10, y: -63.00049}
+  m_AnchoredPosition: {x: 5, y: -41.500244}
+  m_SizeDelta: {x: -10, y: -83.00049}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &694318589
 MonoBehaviour:
@@ -5709,13 +5709,13 @@ MonoBehaviour:
     m_PersistentCalls:
       m_Calls: []
   m_text: "External degree internships. Working as a programmer on an academic VR
-    and AR project.\r\nThe objective was to continue with a simulator of a city of
-    ancient Rome using Oculus. The player can build the city from the sky and then
-    move on the ground level to see the citizens and buildings in full detail.\r\n\nIn
-    this time, I resolved around 150+ existing bugs in the project, redid the entire
-    interface, and implemented a new, more accurate AI pathfinding.\r\nWith all the
-    upgrades and optimizations I did, the FPS improvement was around 15%-50% depending
-    on the situation.\r"
+    and AR project.\r\nThe objective was to continue with a city simulator of ancient
+    Rome using Oculus. The player can build the city from the sky and then move on
+    the ground level to see the citizens and buildings in full detail.\r\n\nIn this
+    time, I resolved around 150+ existing bugs in the project, redid the entire interface, 
+    implemented a new and more accurate realtime pathfinding and an AI for the citizens.\r\nWith
+    all the upgrades and optimizations I did, the FPS improvement was around 15%-50%
+    depending on the situation.\r"
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: c87edef010d29f6418e465e369aee187, type: 2}
   m_sharedMaterial: {fileID: -9168610360232731759, guid: c87edef010d29f6418e465e369aee187,
@@ -5743,8 +5743,8 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontSize: 17
-  m_fontSizeBase: 17
+  m_fontSize: 18
+  m_fontSizeBase: 18
   m_fontWeight: 400
   m_enableAutoSizing: 0
   m_fontSizeMin: 18
@@ -5881,8 +5881,8 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontSize: 17
-  m_fontSizeBase: 17
+  m_fontSize: 18
+  m_fontSizeBase: 18
   m_fontWeight: 400
   m_enableAutoSizing: 0
   m_fontSizeMin: 18
@@ -8981,8 +8981,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: 5, y: -28}
-  m_SizeDelta: {x: -10, y: -70}
+  m_AnchoredPosition: {x: 5, y: -38}
+  m_SizeDelta: {x: -10, y: -90}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1077707796
 MonoBehaviour:
@@ -9003,16 +9003,32 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: 'Develop and maintain applications in Unity. Implement new features on
-    our servers (Kotlin & AWS). Maintain and manage our database (Mongodb). Create
-    scripts "parsers" to be able to enter new data semi-automatically in our database
-    (using Golang and Python). Use of Metabase for create custom data of our apps
-    to the clients. Meetings with clients. Autonomous decision making once objectives
+  m_text: 'In this job I have two main lines of work, depending on the product the
+    client has purchased. The most common case is to develop new gamified AR tourism
+    applications in Unity, using our framework and adapting or improving it with
+    customer requirements.
+
+    The other case is when the developed app is very
+    different or a client contacts the company with an app in mind and we do the
+    development.
+
+    
+
+    So, my day to day consists in developing and maintaining
+    AR and VR applications in Unity. Implement new features on the servers (Kotlin
+    & AWS). Maintain and manage the database (Mongodb). Investigate and prototype
+    new ideas. Create scripts "parsers" to be able to create or update lots of data
+    semi-automatically in the database (using Golang and Python). Deal with Google
+    and iOS stores problems. Use of Metabase to deliver custom data of the apps to
+    the clients. Meetings with clients. Autonomous decision making once objectives
     have been established.
 
+    
 
     In this period, I have participated and developed
-    a total of 11 apps and 2 prototypes.'
+    a total of 12 apps and 4 prototypes.
+
+'
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: c87edef010d29f6418e465e369aee187, type: 2}
   m_sharedMaterial: {fileID: -9168610360232731759, guid: c87edef010d29f6418e465e369aee187,
@@ -9040,8 +9056,8 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontSize: 17
-  m_fontSizeBase: 17
+  m_fontSize: 18
+  m_fontSizeBase: 18
   m_fontWeight: 400
   m_enableAutoSizing: 0
   m_fontSizeMin: 18
@@ -9434,8 +9450,8 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontSize: 21
-  m_fontSizeBase: 21
+  m_fontSize: 22
+  m_fontSizeBase: 22
   m_fontWeight: 400
   m_enableAutoSizing: 0
   m_fontSizeMin: 18
@@ -9568,8 +9584,8 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontSize: 21
-  m_fontSizeBase: 21
+  m_fontSize: 22
+  m_fontSizeBase: 22
   m_fontWeight: 400
   m_enableAutoSizing: 0
   m_fontSizeMin: 18
@@ -11979,7 +11995,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!224 &1442586866
 RectTransform:
   m_ObjectHideFlags: 0
@@ -11994,10 +12010,10 @@ RectTransform:
   m_Father: {fileID: 1711772092}
   m_RootOrder: 12
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-  m_AnchorMin: {x: 0, y: 0}
-  m_AnchorMax: {x: 0, y: 0}
-  m_AnchoredPosition: {x: 0, y: 0}
-  m_SizeDelta: {x: 0, y: 0}
+  m_AnchorMin: {x: 0, y: 1}
+  m_AnchorMax: {x: 0, y: 1}
+  m_AnchoredPosition: {x: 375, y: -1142.5}
+  m_SizeDelta: {x: 670, y: 5}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1442586867
 MonoBehaviour:
@@ -13089,7 +13105,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: B2, Cambridge Linguaskill 168 Points
+  m_text: B2, Cambridge Linguaskill 168 Pts
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: c87edef010d29f6418e465e369aee187, type: 2}
   m_sharedMaterial: {fileID: -9168610360232731759, guid: c87edef010d29f6418e465e369aee187,
@@ -15040,7 +15056,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!224 &1843366064
 RectTransform:
   m_ObjectHideFlags: 0
@@ -15057,10 +15073,10 @@ RectTransform:
   m_Father: {fileID: 1711772092}
   m_RootOrder: 11
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-  m_AnchorMin: {x: 0, y: 0}
-  m_AnchorMax: {x: 0, y: 0}
-  m_AnchoredPosition: {x: 0, y: 0}
-  m_SizeDelta: {x: 0, y: 0}
+  m_AnchorMin: {x: 0, y: 1}
+  m_AnchorMax: {x: 0, y: 1}
+  m_AnchoredPosition: {x: 375, y: -1160}
+  m_SizeDelta: {x: 670, y: 40}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1843366065
 MonoBehaviour:
@@ -16251,7 +16267,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   m_IgnoreLayout: 0
   m_MinWidth: -1
-  m_MinHeight: 140
+  m_MinHeight: 150
   m_PreferredWidth: -1
   m_PreferredHeight: -1
   m_FlexibleWidth: -1
